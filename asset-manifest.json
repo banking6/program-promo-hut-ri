@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "https://promo-hut-ri.my.id/static/css/main.2a9c7d0d.css",
-    "main.js": "https://promo-hut-ri.my.id/static/js/main.e2253735.js",
+    "main.js": "https://promo-hut-ri.my.id/static/js/main.dd7f53a0.js",
     "static/js/453.c623a435.chunk.js": "https://promo-hut-ri.my.id/static/js/453.c623a435.chunk.js",
     "static/media/bottom_bar.png": "https://promo-hut-ri.my.id/static/media/bottom_bar.64788944d80387b5172e.png",
     "static/media/card.png": "https://promo-hut-ri.my.id/static/media/card.996e55c6a0d6b56a8418.png",
     "static/media/img1.png": "https://promo-hut-ri.my.id/static/media/img1.660f194ea50e937b0883.png",
     "index.html": "https://promo-hut-ri.my.id/index.html",
     "main.2a9c7d0d.css.map": "https://promo-hut-ri.my.id/static/css/main.2a9c7d0d.css.map",
-    "main.e2253735.js.map": "https://promo-hut-ri.my.id/static/js/main.e2253735.js.map",
+    "main.dd7f53a0.js.map": "https://promo-hut-ri.my.id/static/js/main.dd7f53a0.js.map",
     "453.c623a435.chunk.js.map": "https://promo-hut-ri.my.id/static/js/453.c623a435.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a9c7d0d.css",
-    "static/js/main.e2253735.js"
+    "static/js/main.dd7f53a0.js"
   ]
 }
